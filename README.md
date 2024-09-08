@@ -27,7 +27,7 @@
 | Profile | Name |
 | :---: | :---: |
 | <a href="https://github.com/lkrko"><img src="https://avatars.githubusercontent.com/u/126140379?v=4" height="120px"></a> | CHAEYEON KIM <br> **lkrko**| 
-| <a href=""><img src="https://avatars.githubusercontent.com/u/126140379?v=4" height="120px"></a> | SEOUEN LEE <br> | 
+| <a href="https://github.com/lorvrlo"><img src="https://avatars.githubusercontent.com/u/126140379?v=4" height="120px"></a> | SEOUEN LEE <br> **lorvrlo**| 
 
 # 
 
