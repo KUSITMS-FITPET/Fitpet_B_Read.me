@@ -567,7 +567,8 @@
 
 ## URL 관리
 
-![22](https://github.com/user-attachments/assets/7c8b6fe0-eafb-40a4-af6d-779b88f40552)
+![kusitms-sc-fe vercel app_admin (2)](https://github.com/user-attachments/assets/67028caf-38a8-4878-8c55-3166df8d1ca2)
+
 
 **자사에서 배포 중인 URL을 관리할 수 있는 페이지입니다.**
 
