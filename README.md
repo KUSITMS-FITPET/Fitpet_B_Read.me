@@ -588,7 +588,7 @@
 
 - 등록된 URL 수정
 - 새로운 URL 추가
-- 
+  
 # 🎨 디자인 시스템
 
 ![9](https://github.com/user-attachments/assets/f966bb5a-5b3a-465d-90d0-a7514307ed3e)
