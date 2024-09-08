@@ -1,26 +1,32 @@
 # Fitpet_B_Read.me
 
-## Backend
-
-| Profile | Name | Role |
-| :---: | :---: | :---: |
-| <a href="https://github.com/anselmo228"><img src="https://avatars.githubusercontent.com/u/24919880?v=4" height="120px"></a> | Heechan Chung <br> **anselmo**| Create a Docker Image for Inferring UVR Models <br> Manage AWS S3 buckets, Lambda, and API gateways <br> Managing singtome project model experiments|
-| <a href="https://github.com/L-U-Ready"><img src="https://avatars.githubusercontent.com/u/123285545?v=4" height="120px"></a> | YUJOON LEE <br> **L-U-Ready**| Create a Docker Image for Inferring UVR Models <br> Manage AWS S3 buckets, Lambda, and API gateways <br> Managing singtome project model experiments|
-
-## Frontend
-
-| Profile | Name | Role |
-| :---: | :---: | :---: |
-| <a href="https://github.com/karnelll"><img src="https://avatars.githubusercontent.com/u/165611407?v=4" height="120px"></a> | SEOHEE CHOI <br> **karnelll**| Create a Docker Image for Inferring UVR Models <br> Manage AWS S3 buckets, Lambda, and API gateways <br> Managing singtome project model experiments|
-| <a href="https://github.com/yeyounging"><img src="https://avatars.githubusercontent.com/u/133792082?v=4" height="120px"></a> | YEYOUNG KONG <br> **yeyounging**| Create a Docker Image for Inferring UVR Models <br> Manage AWS S3 buckets, Lambda, and API gateways <br> Managing singtome project model experiments|
-
-## Planner
+## PLANNER
 
 | Profile | Name | Role |
 | :---: | :---: | :---: |
 | <a href="https://github.com/go-myang"><img src="https://avatars.githubusercontent.com/u/175245394?v=4" height="120px"></a> | NAYOUNG HAN <br> **go-myang**| Create a Docker Image for Inferring UVR Models <br> Manage AWS S3 buckets, Lambda, and API gateways <br> Managing singtome project model experiments|
 | <a href="https://github.com/ssominging"><img src="https://avatars.githubusercontent.com/u/180842955?v=4" height="120px"></a> | SOMIN PARK <br> **ssominging**| Create a Docker Image for Inferring UVR Models <br> Manage AWS S3 buckets, Lambda, and API gateways <br> Managing singtome project model experiments|
 
+## FRONTEND
+
+| Profile | Name | Role |
+| :---: | :---: | :---: |
+| <a href="https://github.com/karnelll"><img src="https://avatars.githubusercontent.com/u/165611407?v=4" height="120px"></a> | SEOHEE CHOI <br> **karnelll**| Create a Docker Image for Inferring UVR Models <br> Manage AWS S3 buckets, Lambda, and API gateways <br> Managing singtome project model experiments|
+| <a href="https://github.com/yeyounging"><img src="https://avatars.githubusercontent.com/u/133792082?v=4" height="120px"></a> | YEYOUNG KONG <br> **yeyounging**| Create a Docker Image for Inferring UVR Models <br> Manage AWS S3 buckets, Lambda, and API gateways <br> Managing singtome project model experiments|
+
+## BACKEND
+
+| Profile | Name | Role |
+| :---: | :---: | :---: |
+| <a href="https://github.com/anselmo228"><img src="https://avatars.githubusercontent.com/u/24919880?v=4" height="120px"></a> | Heechan Chung <br> **anselmo**| Create a Docker Image for Inferring UVR Models <br> Manage AWS S3 buckets, Lambda, and API gateways <br> Managing singtome project model experiments|
+| <a href="https://github.com/L-U-Ready"><img src="https://avatars.githubusercontent.com/u/123285545?v=4" height="120px"></a> | YUJOON LEE <br> **L-U-Ready**| Create a Docker Image for Inferring UVR Models <br> Manage AWS S3 buckets, Lambda, and API gateways <br> Managing singtome project model experiments|
+
+## DESIGNER
+
+| Profile | Name | Role |
+| :---: | :---: | :---: |
+| <a href="https://github.com/anselmo228"><img src="https://avatars.githubusercontent.com/u/24919880?v=4" height="120px"></a> | Heechan Chung <br> **anselmo**| Create a Docker Image for Inferring UVR Models <br> Manage AWS S3 buckets, Lambda, and API gateways <br> Managing singtome project model experiments|
+| <a href="https://github.com/L-U-Ready"><img src="https://avatars.githubusercontent.com/u/123285545?v=4" height="120px"></a> | YUJOON LEE <br> **L-U-Ready**| Create a Docker Image for Inferring UVR Models <br> Manage AWS S3 buckets, Lambda, and API gateways <br> Managing singtome project model experiments|
 
 ## 🛅ERD
 ![image](https://github.com/user-attachments/assets/04c55ae8-09d6-4a50-aeb2-ce806cb29bef)
@@ -86,3 +92,6 @@
 ### **GIT FLOW**
 <img width="256" alt="KakaoTalk_Photo_2024-09-08-22-32-07" src="https://github.com/user-attachments/assets/b9c35b22-0473-4e10-acc7-bae9caf36516">
 
+GitHub Flow는 모든 개발을 기능 브랜치에서 독립적으로 진행한 후, 코드 리뷰를 거쳐 master 브랜치로 병합하고, 배포하는 간단하고 효율적인 방식입니다. 이 방법은 빠른 배포 주기가 필요한 프로젝트에 적합합니다.
+
+이 이미지에서 각 색깔의 노드는 브랜치의 각각의 커밋을 나타내며, 병합 화살표는 각 기능 브랜치가 master 브랜치로 병합되는 과정을 설명하고 있습니다.
