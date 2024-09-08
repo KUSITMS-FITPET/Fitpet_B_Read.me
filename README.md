@@ -31,8 +31,8 @@
 
 # 
 
-![Frame 5.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/0697e47b-c429-4e6d-8048-c3bf4dbe88cf/d702f411-d7f3-4315-b991-aeaebbdd81cb/Frame_5.png)
-
+[![Frame 5.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/0697e47b-c429-4e6d-8048-c3bf4dbe88cf/d702f411-d7f3-4315-b991-aeaebbdd81cb/Frame_5.png)
+](https://www.notion.so/9b1a83f114d8499e93a0f1e3511a1d61?pvs=4#212b1aa22b6e43b0b39bac3115a1435f)
 # **💘 큐핏트**
 
 ****효과적인 서비스를 기획하여 천만 반려동물 인구의 마음을 큐피트처럼 사로잡고 싶은 팀 ‘큐핏트’입니다. 저희는 이번 큐시즘 30기 기업프로젝트에서 ‘스마트커버 인슈어런스’ 사의 UXUI 개선안 및 견적서 발송 자동화 시스템 구축 과제를 담당했습니다. 3주 동안 모든 팀원이 열정을 갖고 기업 프로젝트에 임했습니다. 앞으로도 항상 최선을 다하는 ‘큐핏트’팀이 되겠습니다!**
