@@ -30,9 +30,8 @@
 | <a href="https://github.com/lorvrlo"><img src="https://avatars.githubusercontent.com/u/126140379?v=4" height="120px"></a> | SEOUEN LEE <br> **lorvrlo**| 디자이너 |
 
 # 
+<img width="1920" alt="1" src="https://github.com/user-attachments/assets/246964a4-04d8-4463-83af-2fc7ebd5ed39">
 
-[![Frame 5.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/0697e47b-c429-4e6d-8048-c3bf4dbe88cf/d702f411-d7f3-4315-b991-aeaebbdd81cb/Frame_5.png)
-](https://www.notion.so/9b1a83f114d8499e93a0f1e3511a1d61?pvs=4#212b1aa22b6e43b0b39bac3115a1435f)
 # **💘 큐핏트**
 
 ****효과적인 서비스를 기획하여 천만 반려동물 인구의 마음을 큐피트처럼 사로잡고 싶은 팀 ‘큐핏트’입니다. 저희는 이번 큐시즘 30기 기업프로젝트에서 ‘스마트커버 인슈어런스’ 사의 UXUI 개선안 및 견적서 발송 자동화 시스템 구축 과제를 담당했습니다. 3주 동안 모든 팀원이 열정을 갖고 기업 프로젝트에 임했습니다. 앞으로도 항상 최선을 다하는 ‘큐핏트’팀이 되겠습니다!**
@@ -78,7 +77,8 @@
 - SWOT 분석 전략 중 **WO 전략**을 채택하여 **약점을 보완**하고
 스마트커버인슈어런스가 타사에 비해 가지는 **강점과 기회 요인을 강화**하는 방향성을 구축했습니다.
 
-![슬라이드 배너.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/0697e47b-c429-4e6d-8048-c3bf4dbe88cf/da6a762c-4a25-47fe-aae2-f802493e20f8/%E1%84%89%E1%85%B3%E1%86%AF%E1%84%85%E1%85%A1%E1%84%8B%E1%85%B5%E1%84%83%E1%85%B3_%E1%84%87%E1%85%A2%E1%84%82%E1%85%A5.png)
+
+![2](https://github.com/user-attachments/assets/33d3d718-fc6b-43e4-a75e-7e5e46c18959)
 
 **3️⃣ 자사 분석 인사이트**
 
@@ -277,13 +277,12 @@
 
 - **GNB 개선**
     - **`기존안`** 홈, 펫보험견적, 반려생활, FAQ, 제휴/문의
-        
-        ![기존1.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/0697e47b-c429-4e6d-8048-c3bf4dbe88cf/5f2f290c-71d9-4ef3-90b5-dd65dc3e2576/%EA%B8%B0%EC%A1%B41.png)
+        ![3](https://github.com/user-attachments/assets/0a9524cd-7689-46b9-85c3-f9d66ebdec24)
         
     - **`개선안`** **홈, 펫보험 비교, 펫보험 팁, 고객 리뷰, FAQ**
         
-        ![개선1.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/0697e47b-c429-4e6d-8048-c3bf4dbe88cf/132a894e-d663-4954-a68e-9190a42dd2e7/%EA%B0%9C%EC%84%A01.png)
-        
+        ![4](https://github.com/user-attachments/assets/72fbe2b0-e27b-4d38-9568-aa1abf2d8f34)
+
         - 홈페이지 접속 시 사용자들이 해당 사이트가 ‘펫보험 비교 서비스’를 제공하는 사이트임을 빠르게 이해할 수 있도록 개선했습니다.
             - UT에서 다수의 테스터가 개선안의 GNB UX 라이팅을 통해 해당 사이트가 제공하는 서비스를 빠르게 이해했습니다.
         
@@ -293,13 +292,13 @@
     - 전문가 전화 상담, 톡 문의 플로팅 버튼 → 상담 접근 용이
         - 전화 상담, 톡 문의 클릭 시 각각 ‘SC 자사와의 전화’, ‘카카오톡 스마트커버인슈어런스 플러스친구’로 바로 연결될 수 있게 하여 사용자들의 상담 접근성을 높였습니다.
         
-        ![Group 2085670157.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/0697e47b-c429-4e6d-8048-c3bf4dbe88cf/2bb66b23-a68a-4a70-92eb-575556e95e4f/Group_2085670157.png)
-        
+        <img width="641" alt="5" src="https://github.com/user-attachments/assets/664ed0be-76cd-4fd9-8143-636968955f34">
+
 
 - **견적서 입력 페이지에서 실제 견적서 예시를 바로 확인 가능할 수 있는 기능**
     
-    ![Frame 2085665207.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/0697e47b-c429-4e6d-8048-c3bf4dbe88cf/cafd56fb-aadb-4ce7-be23-9b8342c20e14/Frame_2085665207.png)
-    
+    ![6](https://github.com/user-attachments/assets/c266b03f-e0e2-49b7-9589-aa0f72fb23b9)
+
     - ‘?’ 컴포넌트, ‘견적서 예시보기’ 컴포넌트 모두 사용자가 접근 시 견적서 예시를 확인할 수 있도록 구현했습니다.
     - 또한, 사용자가 정보 확인 이후 견적서 입력 정보 플로우로 빠르게 돌아갈 수 있도록 호버, 닫기 기능 모두 구현했습니다.
     
@@ -324,9 +323,10 @@
         
 - **SC만의 3D 캐릭터 제작**
     
-    ![Group 2085670154.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/0697e47b-c429-4e6d-8048-c3bf4dbe88cf/4f195188-951c-413d-91b7-cc2d9d509316/Group_2085670154.png)
-    
-    ![슬라이드 배너 (1).png](https://prod-files-secure.s3.us-west-2.amazonaws.com/0697e47b-c429-4e6d-8048-c3bf4dbe88cf/4a520728-f4c9-4f99-be67-05c910811725/%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C_%EB%B0%B0%EB%84%88_(1).png)
+    ![7](https://github.com/user-attachments/assets/9e2071f4-65e8-4361-a3e5-efc2797b573f)
+
+    ![8](https://github.com/user-attachments/assets/4368829c-c9e9-4bc6-96e9-c2d0f6695699)
+
     
     - ‘강아지와 고양이의 펫보험 비교 서비스’를 제공하는 SC의 특성을 고려하여, 강아지와 고양이 3D 캐릭터를 각각 직접 제작하여 사이트에 활용했습니다.
     - 제작한 캐릭터를 메인 홈, 견적서 입력 완료 시 팝업, 고객 리뷰 작성 완료 시 팝업 등에 활용했습니다.
@@ -542,7 +542,7 @@
 
 # 🎨 디자인 시스템
 
-![Frame 758531758.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/0697e47b-c429-4e6d-8048-c3bf4dbe88cf/6cd922de-dc62-43b9-8a09-e81b5c5aa9c5/Frame_758531758.png)
+![9](https://github.com/user-attachments/assets/f966bb5a-5b3a-465d-90d0-a7514307ed3e)
 
 - **Typhography**
     - 깔끔하고 정직한 Pretendard 폰트를 사용했습니다.
