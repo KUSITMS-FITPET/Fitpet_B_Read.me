@@ -2,11 +2,11 @@
 
 ## PLANNER
 
-| Profile | Name | 
-| :---: | :---: | 
-| <a href="https://github.com/go-myang"><img src="https://avatars.githubusercontent.com/u/175245394?v=4" height="120px"></a> | NAYOUNG HAN <br> **go-myang**| 
-| <a href="https://github.com/ssominging"><img src="https://avatars.githubusercontent.com/u/180842955?v=4" height="120px"></a> | SOMIN PARK <br> **ssominging**| 
-| <a href=""><img src="https://avatars.githubusercontent.com/u/180842955?v=4" height="120px"></a> | SARANG YUN <br> **ssominging**|
+| Profile | Name | Role |
+| :---: | :---: | :---: |
+| <a href="https://github.com/go-myang"><img src="https://avatars.githubusercontent.com/u/175245394?v=4" height="120px"></a> | NAYOUNG HAN <br> **go-myang**| 기획 |
+| <a href="https://github.com/ssominging"><img src="https://avatars.githubusercontent.com/u/180842955?v=4" height="120px"></a> | SOMIN PARK <br> **ssominging**| PM |
+| <a href=""><img src="https://avatars.githubusercontent.com/u/180842955?v=4" height="120px"></a> | SARANG YUN <br> **ssominging**| 기획 |
 
 ## FRONTEND
 
@@ -24,10 +24,10 @@
 
 ## DESIGNER
 
-| Profile | Name |
-| :---: | :---: |
-| <a href="https://github.com/lkrko"><img src="https://avatars.githubusercontent.com/u/126140379?v=4" height="120px"></a> | CHAEYEON KIM <br> **lkrko**| 
-| <a href="https://github.com/lorvrlo"><img src="https://avatars.githubusercontent.com/u/126140379?v=4" height="120px"></a> | SEOUEN LEE <br> **lorvrlo**| 
+| Profile | Name | Role |
+| :---: | :---: | :---: |
+| <a href="https://github.com/lkrko"><img src="https://avatars.githubusercontent.com/u/126140379?v=4" height="120px"></a> | CHAEYEON KIM <br> **lkrko**| 디자이너 |
+| <a href="https://github.com/lorvrlo"><img src="https://avatars.githubusercontent.com/u/126140379?v=4" height="120px"></a> | SEOUEN LEE <br> **lorvrlo**| 디자이너 |
 
 # 
 
