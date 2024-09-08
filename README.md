@@ -12,15 +12,15 @@
 
 | Profile | Name | Role |
 | :---: | :---: | :---: |
-| <a href="https://github.com/karnelll"><img src="https://avatars.githubusercontent.com/u/165611407?v=4" height="120px"></a> | SEOHEE CHOI <br> **karnelll**| Create a Docker Image for Inferring UVR Models <br> Manage AWS S3 buckets, Lambda, and API gateways <br> Managing singtome project model experiments|
-| <a href="https://github.com/yeyounging"><img src="https://avatars.githubusercontent.com/u/133792082?v=4" height="120px"></a> | YEYOUNG KONG <br> **yeyounging**| Create a Docker Image for Inferring UVR Models <br> Manage AWS S3 buckets, Lambda, and API gateways <br> Managing singtome project model experiments|
+| <a href="https://github.com/karnelll"><img src="https://avatars.githubusercontent.com/u/165611407?v=4" height="120px"></a> | SEOHEE CHOI <br> **karnelll**|사용자 랜딩/리뷰페이지,관리자 설정페이지, 공통 레이아웃|
+| <a href="https://github.com/yeyounging"><img src="https://avatars.githubusercontent.com/u/133792082?v=4" height="120px"></a> | YEYOUNG KONG <br> **yeyounging**|프로젝트 환경설정, 사용자 견적서/FQA/보험팁 페이지, 관리자 로그인/견적서설정/url관리페이지, 관리자페이지 접근제한, 배포 |
 
 ## BACKEND
 
 | Profile | Name | Role |
 | :---: | :---: | :---: |
-| <a href="https://github.com/anselmo228"><img src="https://avatars.githubusercontent.com/u/24919880?v=4" height="120px"></a> | Heechan Chung <br> **anselmo**| 💻 개발 리드, API 구축, 서버 배포, S3 리소스 관리|
-| <a href="https://github.com/L-U-Ready"><img src="https://avatars.githubusercontent.com/u/123285545?v=4" height="120px"></a> | YUJOON LEE <br> **L-U-Ready**| 🖥️ DB 및 API 구축, S3 리소스 관리|
+| <a href="https://github.com/anselmo228"><img src="https://avatars.githubusercontent.com/u/24919880?v=4" height="120px"></a> | Heechan Chung <br> **anselmo**| Create a Docker Image for Inferring UVR Models <br> Manage AWS S3 buckets, Lambda, and API gateways <br> Managing singtome project model experiments|
+| <a href="https://github.com/L-U-Ready"><img src="https://avatars.githubusercontent.com/u/123285545?v=4" height="120px"></a> | YUJOON LEE <br> **L-U-Ready**| Create a Docker Image for Inferring UVR Models <br> Manage AWS S3 buckets, Lambda, and API gateways <br> Managing singtome project model experiments|
 
 ## DESIGNER
 
@@ -621,6 +621,7 @@
 - **React:** 컴포넌트 기반으로 UI를 모듈화해 빠르고 효율적인 업데이트가 가능하며, 재사용성 높은 코드로 유지보수가 용이합니다.
 - **TypeScript:** 정적 타입 검사로 코드 안정성을 높이고 디버깅을 쉽게 합니다.
 - **TailwindCSS:** 유틸리티 클래스 기반으로 신속하고 일관된 스타일링이 가능합니다.
+- **tanstack-query:**
 
 > **백엔드 스택 선정과 이유**
 
