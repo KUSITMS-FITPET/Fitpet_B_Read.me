@@ -6,7 +6,7 @@
 | :---: | :---: | :---: |
 | <a href="https://github.com/go-myang"><img src="https://avatars.githubusercontent.com/u/175245394?v=4" height="120px"></a> | NAYOUNG HAN <br> **go-myang**| Create a Docker Image for Inferring UVR Models <br> Manage AWS S3 buckets, Lambda, and API gateways <br> Managing singtome project model experiments|
 | <a href="https://github.com/ssominging"><img src="https://avatars.githubusercontent.com/u/180842955?v=4" height="120px"></a> | SOMIN PARK <br> **ssominging**| Create a Docker Image for Inferring UVR Models <br> Manage AWS S3 buckets, Lambda, and API gateways <br> Managing singtome project model experiments|
-| <a href="https://github.com/ssominging"><img src="https://avatars.githubusercontent.com/u/180842955?v=4" height="120px"></a> | SARANG YUN <br> **ssominging**| Create a Docker Image for Inferring UVR Models <br> Manage AWS S3 buckets, Lambda, and API gateways <br> Managing singtome project model experiments|
+| <a href=""><img src="" height="120px"></a> | SARANG YUN <br> **ssominging**||
 
 ## FRONTEND
 
@@ -26,8 +26,8 @@
 
 | Profile | Name | Role |
 | :---: | :---: | :---: |
-| <a href="https://github.com/lkrko"><img src="https://avatars.githubusercontent.com/u/126140379?v=4" height="120px"></a> | CHAEYEON KIM <br> **lkrko**| Create a Docker Image for Inferring UVR Models <br> Manage AWS S3 buckets, Lambda, and API gateways <br> Managing singtome project model experiments|
-| <a href="https://github.com/L-U-Ready"><img src="https://avatars.githubusercontent.com/u/123285545?v=4" height="120px"></a> | SEOUEN LEE <br> **L-U-Ready**| Create a Docker Image for Inferring UVR Models <br> Manage AWS S3 buckets, Lambda, and API gateways <br> Managing singtome project model experiments|
+| <a href="https://github.com/lkrko"><img src="https://avatars.githubusercontent.com/u/126140379?v=4" height="120px"></a> | CHAEYEON KIM <br> **lkrko**| |
+| <a href=""><img src="" height="120px"></a> | SEOUEN LEE <br> | |
 
 ## 🛅ERD
 ![image](https://github.com/user-attachments/assets/04c55ae8-09d6-4a50-aeb2-ce806cb29bef)
