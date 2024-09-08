@@ -19,8 +19,8 @@
 
 | Profile | Name | Role |
 | :---: | :---: | :---: |
-| <a href="https://github.com/anselmo228"><img src="https://avatars.githubusercontent.com/u/24919880?v=4" height="120px"></a> | Heechan Chung <br> **anselmo**| Create a Docker Image for Inferring UVR Models <br> Manage AWS S3 buckets, Lambda, and API gateways <br> Managing singtome project model experiments|
-| <a href="https://github.com/L-U-Ready"><img src="https://avatars.githubusercontent.com/u/123285545?v=4" height="120px"></a> | YUJOON LEE <br> **L-U-Ready**| Create a Docker Image for Inferring UVR Models <br> Manage AWS S3 buckets, Lambda, and API gateways <br> Managing singtome project model experiments|
+| <a href="https://github.com/anselmo228"><img src="https://avatars.githubusercontent.com/u/24919880?v=4" height="120px"></a> | Heechan Chung <br> **anselmo**| 💻 개발 리드, API 구축, 서버 배포, S3 리소스 관리|
+| <a href="https://github.com/L-U-Ready"><img src="https://avatars.githubusercontent.com/u/123285545?v=4" height="120px"></a> | YUJOON LEE <br> **L-U-Ready**| 🖥️ DB 및 API 구축, S3 리소스 관리|
 
 ## DESIGNER
 
